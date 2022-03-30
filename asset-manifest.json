@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/reactcipes/static/css/main.5f73f583.chunk.css",
-    "main.js": "/reactcipes/static/js/main.3d6fb3a5.chunk.js",
-    "main.js.map": "/reactcipes/static/js/main.3d6fb3a5.chunk.js.map",
-    "runtime-main.js": "/reactcipes/static/js/runtime-main.101a5a3d.js",
-    "runtime-main.js.map": "/reactcipes/static/js/runtime-main.101a5a3d.js.map",
-    "static/js/2.882f76cc.chunk.js": "/reactcipes/static/js/2.882f76cc.chunk.js",
-    "static/js/2.882f76cc.chunk.js.map": "/reactcipes/static/js/2.882f76cc.chunk.js.map",
-    "static/js/3.3a06976c.chunk.js": "/reactcipes/static/js/3.3a06976c.chunk.js",
-    "static/js/3.3a06976c.chunk.js.map": "/reactcipes/static/js/3.3a06976c.chunk.js.map",
-    "index.html": "/reactcipes/index.html",
-    "static/css/main.5f73f583.chunk.css.map": "/reactcipes/static/css/main.5f73f583.chunk.css.map",
-    "static/js/2.882f76cc.chunk.js.LICENSE.txt": "/reactcipes/static/js/2.882f76cc.chunk.js.LICENSE.txt",
-    "static/media/NETlogoSVG.3fa2ac11.svg": "/reactcipes/static/media/NETlogoSVG.3fa2ac11.svg",
-    "static/media/ReactLogoSVG.18ec507a.svg": "/reactcipes/static/media/ReactLogoSVG.18ec507a.svg"
+    "main.css": "/ReactCIPES/static/css/main.5f73f583.chunk.css",
+    "main.js": "/ReactCIPES/static/js/main.3d6fb3a5.chunk.js",
+    "main.js.map": "/ReactCIPES/static/js/main.3d6fb3a5.chunk.js.map",
+    "runtime-main.js": "/ReactCIPES/static/js/runtime-main.020d7cb7.js",
+    "runtime-main.js.map": "/ReactCIPES/static/js/runtime-main.020d7cb7.js.map",
+    "static/js/2.882f76cc.chunk.js": "/ReactCIPES/static/js/2.882f76cc.chunk.js",
+    "static/js/2.882f76cc.chunk.js.map": "/ReactCIPES/static/js/2.882f76cc.chunk.js.map",
+    "static/js/3.3a06976c.chunk.js": "/ReactCIPES/static/js/3.3a06976c.chunk.js",
+    "static/js/3.3a06976c.chunk.js.map": "/ReactCIPES/static/js/3.3a06976c.chunk.js.map",
+    "index.html": "/ReactCIPES/index.html",
+    "static/css/main.5f73f583.chunk.css.map": "/ReactCIPES/static/css/main.5f73f583.chunk.css.map",
+    "static/js/2.882f76cc.chunk.js.LICENSE.txt": "/ReactCIPES/static/js/2.882f76cc.chunk.js.LICENSE.txt",
+    "static/media/NETlogoSVG.3fa2ac11.svg": "/ReactCIPES/static/media/NETlogoSVG.3fa2ac11.svg",
+    "static/media/ReactLogoSVG.18ec507a.svg": "/ReactCIPES/static/media/ReactLogoSVG.18ec507a.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.101a5a3d.js",
+    "static/js/runtime-main.020d7cb7.js",
     "static/js/2.882f76cc.chunk.js",
     "static/css/main.5f73f583.chunk.css",
     "static/js/main.3d6fb3a5.chunk.js"
