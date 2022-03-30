@@ -1,9 +1,18 @@
-import logo from './logo.svg';
 import './App.css';
+import Layout from './components/Layout';
+import { BrowserRouter as Router } from 'react-router-dom';
+import Routes from './components/Shared/Routes';
 
 function App() {
   return (
-    <div className="App">
+    <Router>
+      <Layout>
+        <div className='App'>
+          <Routes />
+        </div>
+      </Layout>
+    </Router>
+/*    <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
@@ -17,8 +26,9 @@ function App() {
         >
           Aprender React
         </a>
+        <Button variant="contained">Boton</Button>
       </header>
-    </div>
+    </div>*/
   );
 }
 
